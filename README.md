@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+)](https://git.io/typing-svg)
 
-<!--
-**Fraxy11/Fraxy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fraxy11&theme=radical&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO"  alt="GO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO"  alt="GO" width="40" height="40"/>&nbsp; -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="Coding" width="200" src="https://media.tenor.com/82oMjTNT390AAAAM/eat-cake.gif">
